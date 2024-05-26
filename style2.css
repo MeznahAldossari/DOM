@@ -1,0 +1,11 @@
+body {
+  position: relative;
+  height: 100vh;
+}
+
+div {
+  position: absolute;
+  width: 50vw;
+  height: 50vh;
+  background-color: rgb(239, 115, 135);
+}
