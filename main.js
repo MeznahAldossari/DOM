@@ -1,8 +1,5 @@
 let h1 = document.getElementsByClassName("firstH1");
-h1[0].setAttribute(
-  "style",
-  "background-color: red; font-family: Georgia, serif"
-);
+h1[0].setAttribute("style", "background-color: red; color: yellow");
 console.log(h1);
 
 let firstP = document.getElementById("firstP");
